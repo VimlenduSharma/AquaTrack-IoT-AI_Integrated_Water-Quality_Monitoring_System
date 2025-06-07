@@ -1,0 +1,2 @@
+# AquaTrack-IoT-AI_Integrated_Water-Quality_Monitoring_System
+This  illustrates the design, development, and implementation of an IoT-AI-based USB-device Water Quality Monitoring System to provide real-time analysis of critical water parameters like pH, TDS, turbidity, and temperature.The primary objective of this project is to develop a small, power-efficient, and smart system for continuous water quality.
